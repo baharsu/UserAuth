@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\dtos\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:dtos\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\dtos\\user\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:dtos\\user\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\dtos\\user\\verifydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:dtos\\user\\verifydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\services\\authenticationservice\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:services\\authenticationservice\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\services\\authenticationservice\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:services\\authenticationservice\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\services\\statisticsservice\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:services\\statisticsservice\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\services\\statisticsservice\\istatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:services\\statisticsservice\\istatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\services\\authenticationservice\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:services\\authenticationservice\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|c:\\users\\bjthe\\source\\repos\\userauthenticationapi\\services\\authenticationservice\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C00EC-4837-49AB-986F-D6B1AE9EBEDC}|UserAuthenticationAPI.csproj|solutionrelative:services\\authenticationservice\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VerifyDto.cs",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Dtos\\User\\VerifyDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\User\\VerifyDto.cs",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Dtos\\User\\VerifyDto.cs",
+              "RelativeToolTip": "Dtos\\User\\VerifyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:46:30.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T17:46:49.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:18:38.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T17:18:29.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwD4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:18:14.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatisticsController.cs",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Controllers\\StatisticsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StatisticsController.cs",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Controllers\\StatisticsController.cs",
+              "RelativeToolTip": "Controllers\\StatisticsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:17:53.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:17:35.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Services\\UserService\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService\\UserService.cs",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Services\\UserService\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService\\UserService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAF0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:16:49.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Services\\UserService\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService\\IUserService.cs",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Services\\UserService\\IUserService.cs",
+              "RelativeToolTip": "Services\\UserService\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:16:32.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StatisticsService.cs",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Services\\StatisticsService\\StatisticsService.cs",
+              "RelativeDocumentMoniker": "Services\\StatisticsService\\StatisticsService.cs",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Services\\StatisticsService\\StatisticsService.cs",
+              "RelativeToolTip": "Services\\StatisticsService\\StatisticsService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADwv1AAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:16:04.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStatisticsService.cs",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Services\\StatisticsService\\IStatisticsService.cs",
+              "RelativeDocumentMoniker": "Services\\StatisticsService\\IStatisticsService.cs",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Services\\StatisticsService\\IStatisticsService.cs",
+              "RelativeToolTip": "Services\\StatisticsService\\IStatisticsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:15:45.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Services\\AuthenticationService\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthenticationService\\EmailService.cs",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Services\\AuthenticationService\\EmailService.cs",
+              "RelativeToolTip": "Services\\AuthenticationService\\EmailService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:15:01.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Services\\AuthenticationService\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthenticationService\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Services\\AuthenticationService\\IEmailService.cs",
+              "RelativeToolTip": "Services\\AuthenticationService\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:14:45.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Services\\AuthenticationService\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthenticationService\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Services\\AuthenticationService\\AuthenticationService.cs",
+              "RelativeToolTip": "Services\\AuthenticationService\\AuthenticationService.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAAAPcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:10:51.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Services\\AuthenticationService\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthenticationService\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Services\\AuthenticationService\\IAuthenticationService.cs",
+              "RelativeToolTip": "Services\\AuthenticationService\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:09:31.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:09:02.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Dtos\\User\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\User\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Dtos\\User\\RegisterDto.cs",
+              "RelativeToolTip": "Dtos\\User\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:08:25.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Dtos\\User\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\User\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Dtos\\User\\LoginDto.cs",
+              "RelativeToolTip": "Dtos\\User\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:08:14.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Models\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "Models\\ServiceResponse.cs",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Models\\ServiceResponse.cs",
+              "RelativeToolTip": "Models\\ServiceResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:07:55.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wBwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:07:55.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Dtos\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\User\\UserDto.cs",
+              "ToolTip": "C:\\Users\\bjthe\\source\\repos\\UserAuthenticationAPI\\Dtos\\User\\UserDto.cs",
+              "RelativeToolTip": "Dtos\\User\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T22:10:08.133Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

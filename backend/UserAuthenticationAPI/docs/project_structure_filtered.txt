@@ -1,0 +1,161 @@
+--- Folder Structure ---
+[.vs]
+    ├── [ProjectEvaluation]
+        ├── userauthenticationapi.metadata.v9.bin
+        ├── userauthenticationapi.projects.v9.bin
+        └── userauthenticationapi.strings.v9.bin
+    └── [UserAuthenticationAPI]
+        ├── [config]
+            └── applicationhost.config
+        ├── [copilot-chat]
+            └── [52618ec8]
+                └── [sessions]
+                    └── 78fae58e-8227-4576-a9d2-b297db3d8beb
+        ├── [CopilotIndices]
+            └── [17.12.38.29086]
+                ├── CodeChunks.db
+                ├── CodeChunks.db-shm
+                ├── CodeChunks.db-wal
+                ├── SemanticSymbols.db
+                ├── SemanticSymbols.db-shm
+                └── SemanticSymbols.db-wal
+        ├── [DesignTimeBuild]
+            └── .dtbcache.v2
+        ├── [FileContentIndex]
+            ├── 11e75ccd-7c13-4c8b-ad84-21b54e36a5b0.vsidx
+            ├── 32d7fc9f-1db1-4013-8f2e-8a0833827d43.vsidx
+            ├── 5454ccd7-f7aa-4abf-8b79-2a0ba1246abb.vsidx
+            ├── 80ecdfd0-aa9e-4f3f-b0ec-fe3a0c30b357.vsidx
+            └── b0986e6f-93e2-4684-91c0-161cb64311d0.vsidx
+        └── [v17]
+            ├── .futdcache.v2
+            ├── .suo
+            ├── DocumentLayout.backup.json
+            └── DocumentLayout.json
+appsettings.Development.json
+appsettings.json
+[bin]
+    └── [Debug]
+        └── [net8.0]
+            ├── appsettings.Development.json
+            ├── appsettings.json
+            ├── BCrypt.Net-Next.dll
+            ├── BouncyCastle.Cryptography.dll
+            ├── DnsClient.dll
+            ├── MailKit.dll
+            ├── MailKitNet48.dll
+            ├── Microsoft.AspNetCore.Authentication.JwtBearer.dll
+            ├── Microsoft.Extensions.DependencyModel.dll
+            ├── Microsoft.IdentityModel.Abstractions.dll
+            ├── Microsoft.IdentityModel.JsonWebTokens.dll
+            ├── Microsoft.IdentityModel.Logging.dll
+            ├── Microsoft.IdentityModel.Protocols.dll
+            ├── Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+            ├── Microsoft.IdentityModel.Tokens.dll
+            ├── Microsoft.OpenApi.dll
+            ├── MimeKit.dll
+            ├── MongoDB.Bson.dll
+            ├── MongoDB.Driver.dll
+            ├── Newtonsoft.Json.dll
+            ├── [runtimes]
+                └── [win]
+                    └── [lib]
+                        └── [net8.0]
+                            └── System.Security.Cryptography.Pkcs.dll
+            ├── Scrutor.dll
+            ├── SharpCompress.dll
+            ├── Snappier.dll
+            ├── Swashbuckle.AspNetCore.Filters.Abstractions.dll
+            ├── Swashbuckle.AspNetCore.Filters.dll
+            ├── Swashbuckle.AspNetCore.Swagger.dll
+            ├── Swashbuckle.AspNetCore.SwaggerGen.dll
+            ├── Swashbuckle.AspNetCore.SwaggerUI.dll
+            ├── System.IdentityModel.Tokens.Jwt.dll
+            ├── System.Security.Cryptography.Pkcs.dll
+            ├── UserAuthenticationAPI.deps.json
+            ├── UserAuthenticationAPI.dll
+            ├── UserAuthenticationAPI.exe
+            ├── UserAuthenticationAPI.pdb
+            ├── UserAuthenticationAPI.runtimeconfig.json
+            ├── UserAuthenticationAPI.staticwebassets.endpoints.json
+            └── ZstdSharp.dll
+[Controllers]
+    ├── AuthenticationController.cs
+    ├── StatisticsController.cs
+    └── UserController.cs
+[Data]
+    └── DataContext.cs
+[docs]
+    ├── .project_structure_filter
+    └── .project_structure_ignore
+[Dtos]
+    └── [User]
+        ├── LoginDto.cs
+        ├── RegisterDto.cs
+        └── UserDto.cs
+[Models]
+    ├── ServiceResponse.cs
+    └── User.cs
+[obj]
+    ├── [Debug]
+        └── [net8.0]
+            ├── .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+            ├── ApiEndpoints.json
+            ├── apphost.exe
+            ├── [EndpointInfo]
+                ├── UserAuthenticationAPI.json
+                └── UserAuthenticationAPI.OpenApiFiles.cache
+            ├── [ref]
+                └── UserAuthenticationAPI.dll
+            ├── [refint]
+                └── UserAuthenticationAPI.dll
+            ├── [staticwebassets]
+                ├── msbuild.build.UserAuthenticationAPI.props
+                ├── msbuild.buildMultiTargeting.UserAuthenticationAPI.props
+                └── msbuild.buildTransitive.UserAuthenticationAPI.props
+            ├── staticwebassets.build.endpoints.json
+            ├── staticwebassets.build.json
+            ├── staticwebassets.references.upToDateCheck.txt
+            ├── staticwebassets.removed.txt
+            ├── UserAuth.FC58722E.Up2Date
+            ├── UserAuthenticationAPI.AssemblyInfo.cs
+            ├── UserAuthenticationAPI.AssemblyInfoInputs.cache
+            ├── UserAuthenticationAPI.assets.cache
+            ├── UserAuthenticationAPI.csproj.AssemblyReference.cache
+            ├── UserAuthenticationAPI.csproj.BuildWithSkipAnalyzers
+            ├── UserAuthenticationAPI.csproj.CoreCompileInputs.cache
+            ├── UserAuthenticationAPI.csproj.FileListAbsolute.txt
+            ├── UserAuthenticationAPI.dll
+            ├── UserAuthenticationAPI.GeneratedMSBuildEditorConfig.editorconfig
+            ├── UserAuthenticationAPI.genruntimeconfig.cache
+            ├── UserAuthenticationAPI.GlobalUsings.g.cs
+            ├── UserAuthenticationAPI.MvcApplicationPartsAssemblyInfo.cache
+            ├── UserAuthenticationAPI.MvcApplicationPartsAssemblyInfo.cs
+            └── UserAuthenticationAPI.pdb
+    ├── project.assets.json
+    ├── project.nuget.cache
+    ├── UserAuthenticationAPI.csproj.nuget.dgspec.json
+    ├── UserAuthenticationAPI.csproj.nuget.g.props
+    └── UserAuthenticationAPI.csproj.nuget.g.targets
+Program.cs
+[Properties]
+    └── launchSettings.json
+[Services]
+    ├── [AuthenticationService]
+        ├── AuthenticationService.cs
+        ├── EmailService.cs
+        ├── IAuthenticationService.cs
+        └── IEmailService.cs
+    ├── [StatisticsService]
+        ├── IStatisticsService.cs
+        └── StatisticsService.cs
+    └── [UserService]
+        ├── IUserService.cs
+        └── UserService.cs
+UserAuthenticationAPI.csproj
+UserAuthenticationAPI.csproj.Backup.tmp
+UserAuthenticationAPI.csproj.user
+UserAuthenticationAPI.http
+UserAuthenticationAPI.sln
+
+--- File Contents ---
